@@ -2,16 +2,19 @@
 
 ## How to run this project
 - clone the project
-- press the run button after selecting the ``` .jmx ``` .jmx
+- press the run button after selecting the ``` .jmx ``` file
 
 ## Technology used:
 - Jmeter
 
 ## Test Report:
+  - Link (https://github.com/zafir100100/Random-User-API-Performance-Test-Load-and-Stress-using-Jmeter/blob/master/resources/performance-testing-result/performance-testing-result.xlsx)
 
-![180](https://github.com/zafir100100/junit-java/blob/master/assets/junit-report.png)
+## Load testing report:
 
-## Site automated:
-  - Link (https://demoqa.com/)
+![180](https://github.com/zafir100100/Random-User-API-Performance-Test-Load-and-Stress-using-Jmeter/blob/master/resources/performance-testing-result/screenshots/load-testing/load-testing.PNG)
 
-![181](https://github.com/zafir100100/junit-java/blob/master/assets/demoqa.png)
+## Stress testing report:
+
+![181](https://github.com/zafir100100/Random-User-API-Performance-Test-Load-and-Stress-using-Jmeter/blob/master/resources/performance-testing-result/screenshots/stress-testing/stress-testing.PNG)
+
