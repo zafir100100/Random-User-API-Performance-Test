@@ -2,7 +2,7 @@
 
 ## How to run this project
 - clone the project
-- press the run button after selecting the ``` .jmx ``` file
+- press the run button after selecting the ``` Random-User-API-Performance-Test-Plan.jmx ``` file from Jmeter
 
 ## Technology used:
 - Jmeter
